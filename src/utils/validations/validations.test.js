@@ -8,7 +8,7 @@ import {
   getDocumentLabel,
   maskDocumentNumberText,
   onlyNumbers
-} from './App';
+} from './validations';
 
 describe('Validations', () => {
   const documentNumbersArr = ['37591056883', '72354422000176', null];

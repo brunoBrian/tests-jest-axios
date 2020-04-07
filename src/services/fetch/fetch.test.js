@@ -1,6 +1,6 @@
 import axios from 'axios'
 import fetch from './fetch';
-import listMock from '../__mocks__/listMock';
+import listMock from '../../__mocks__/listMock';
 
 jest.mock('axios');
 

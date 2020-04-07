@@ -1,5 +1,5 @@
 // users.test.js
-import UserMock from '../__mocks__/userMock';
+import UserMock from '../../__mocks__/userMock';
 import axios from 'axios'
 import Users from './index';
 
